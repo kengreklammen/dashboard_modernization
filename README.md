@@ -1,1 +1,1 @@
-# dashboard_modernization
+# Dashboard modernization project
